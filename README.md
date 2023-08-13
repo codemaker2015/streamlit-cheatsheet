@@ -1,4 +1,4 @@
-# Falcon LLM with LangChain Chat UI
+# Streamlit Cheatsheet
 
 This repository contains some examples to explore streamlit elements.
 
